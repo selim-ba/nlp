@@ -1,4 +1,4 @@
-# Computer Vision Projects
+# Natural Language Processing Projects
 
 This repo presents some of my projects in Natural Language Processing. Each project includes annotated code and a detailed report.
 
