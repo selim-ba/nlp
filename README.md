@@ -11,7 +11,7 @@ This repo presents some of my projects in Natural Language Processing. Each proj
 [📝 My Report – "Fine-Tuning of BERT and RoBERTa with LoRA for Tweet Sentiment Classification"](https://github.com/selim-ba/nlp/blob/main/nlp_bert_roberta_lora_tweet_sentiment.pdf) | [👉 Code]()
 
 ### 🖼️ Prediction of Tweet Sentiments using RoBERTa, fine-tuned with LoRA
-![Add something here]()
+![Prediction Tweet Pipeline](https://github.com/selim-ba/nlp/blob/main/nlp_1_tweets_pipeline.gif)
 
 # Predictions of the fine-tuned RoBERTa + LoRA model on new tweets
 
